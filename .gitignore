@@ -86,3 +86,6 @@ software/chipwhisperer/logs/*
 .vscode/**
 **.ipynb_checkpoints/**
 **/_build/**
+# Local Windows starter dependencies and setup state
+/tools/
+/windows-ready/setup-python.txt
